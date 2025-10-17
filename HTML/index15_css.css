@@ -1,0 +1,21 @@
+h1,strong{
+  border: 2px solid rgb(255, 197, 71);
+}
+a{
+  border: 2px solid rgb(255, 197, 71);
+}
+
+div{
+  background: green;
+  padding:15px 30px
+
+  margin-bottom: 20px;
+ 
+}
+.two{
+  background:aqua;
+}
+#four{ 
+
+  background: red;
+}
