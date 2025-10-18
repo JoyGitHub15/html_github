@@ -1,0 +1,19 @@
+label{
+  display: block;
+  color: rgb(255, 0, 0);
+  
+}
+input{
+  background: rgb(229, 255, 0);
+}
+
+body{
+  background: rgb(40, 164, 180);
+}
+.ONE label{
+
+
+}
+input{
+  background: rebeccapurple;
+}
